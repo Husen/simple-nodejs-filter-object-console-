@@ -14,6 +14,5 @@ export const answer2 = () => {
             }
         }
     }
-
     console.log(`There are ${highPointUsers} users with 50 or more points and already logged in. [ User name : ${userName.join(", ")} ] \n`)
 }

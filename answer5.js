@@ -5,5 +5,5 @@ import { users } from "./challenge.js";
 export const answer5 = () => {
     let userKeys = Object.keys(users);
 
-    console.log(userKeys);
+    console.log(userKeys, '\n');
 }

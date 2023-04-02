@@ -11,7 +11,7 @@ export const answer4 = () => {
         age: 25,
         isLoggedIn: true,
         points: 100,
-    };
+    };    
 
-    console.log(updatedUsers);
+    console.log(updatedUsers,'\n');
 }
